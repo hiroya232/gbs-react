@@ -1,1 +1,1 @@
-# glanblue_search
+# granblue_search
